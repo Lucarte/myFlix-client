@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Lucarte/myFlix-client/issues"
   },
-  "homepage": "https://github.com/Lucarte/myFlix-client#readme"
+  "homepage": "https://github.com/Lucarte/myFlix-client#readme",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
 }
